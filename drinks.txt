@@ -1,6 +1,6 @@
 Coke
 Sprite
-<<<<<<< HEAD
 Coffee
-=======
->>>>>>> a0c02bea4c54de85689002cfb8e84609c4ce1fd8
+Water
+Juice
+
